@@ -29,7 +29,7 @@ The project serves as a strong demonstration of backend logic, robust software a
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/YourRepositoryName.git
+    git clone https://github.com/AntonKhPI2/Product-Management-System
     ```
 2.  **Open the solution:**
     Navigate to the project folder and open the `ConsoleApp1.sln` file in Visual Studio or JetBrains Rider.
